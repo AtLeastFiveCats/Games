@@ -1,6 +1,6 @@
-import time
 import pygame
 import numpy as np
+#Renaming numpy as np
 
 color_bg = (10, 10, 10)
 color_grid = (40, 40, 40)
